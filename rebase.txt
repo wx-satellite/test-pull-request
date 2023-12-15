@@ -6,3 +6,5 @@ rebase_test_2
 
 
 rebase_test_3
+
+rebase_test_4
